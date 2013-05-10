@@ -15,3 +15,7 @@
 /tmp
 *.swp
 .DS_Store
+
+# Ignore vagrant/chef files
+.vagrant
+.chef
